@@ -11,6 +11,7 @@ To write a python program to find the inverse of a matrix
 ### Step 4: End the program
 
 ## Program:
+```
 #Program to find the inverse of a matrix.
 #Developed by: YASWANTH V
 #RegisterNumber:25010248
@@ -23,6 +24,7 @@ A=np.array([
     [2,3,-1]])
 soln=np.linalg.inv(A)
 print(soln)
+```
 ## Output:
 <img width="1072" height="859" alt="image" src="https://github.com/user-attachments/assets/0e93d81e-1bfb-4cd2-baf8-f1ded8e71427" />
 
